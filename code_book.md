@@ -1,6 +1,6 @@
-#FINAL PROJECT
-##Getting and cleaning data
-##CODE BOOK: DataSet1.csv, DataSet2.csv
+# FINAL PROJECT
+## Getting and cleaning data
+## CODE BOOK: DataSet1.csv, DataSet2.csv
 The variables available from DataSet1.csv were normalized from the original dataset, so don't have units.
 The variables that end with XYZ actually are 3 variables one for each axis:
 
